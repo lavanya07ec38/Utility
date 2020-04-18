@@ -237,6 +237,8 @@ public class Xls_Reader {
 		// if(rowNum<=0)
 		// return false;
 		//
+		
+		//added new feature
 		// int index = workbook.getSheetIndex(sheetName);
 		// int colNum=-1;
 		// if(index==-1)
