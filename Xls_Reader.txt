@@ -468,8 +468,6 @@ public class Xls_Reader {
 				}
 			}
 			return -1;
-
 		}
-
 	}
 
